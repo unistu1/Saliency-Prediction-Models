@@ -114,4 +114,7 @@ Below is a curated list of leading papers in visual saliency prediction along wi
   git clone https://github.com/hrtavakoli/iseel.git
   git clone https://github.com/isl-org/DPT.git
   git clone https://github.com/ashleylqx/WeakFixation.git
-  https://github.com/suraj-maniyar/Deep-Visual-Attention-Prediction
+  git clone https://github.com/suraj-maniyar/Deep-Visual-Attention-Prediction
+  git clone https://github.com/rdroste/unisal
+  git clone https://github.com/SenJia/EML-NET-Saliency
+  git clone https://github.com/zabihis/fast-saliency-model
