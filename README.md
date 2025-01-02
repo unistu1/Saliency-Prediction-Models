@@ -69,10 +69,25 @@ Below is a curated list of leading papers in visual saliency prediction along wi
 - **Code Repository**: [GitHub - WeakFixation](https://github.com/ashleylqx/WeakFixation)
 - **Description**: WeakFixation focuses on saliency prediction using weak supervision techniques. The repository includes the implementation of models that learn to predict visual saliency without requiring extensive labeled data, making the approach more scalable and applicable to diverse datasets.
 - 
-## 13. Deep Visual Attention Prediction
+## 14. Deep Visual Attention Prediction
 - **Paper**: Deep Visual Attention Prediction
 - **Code Repository**: [GitHub - Deep-Visual-Attention-Prediction](https://github.com/suraj-maniyar/Deep-Visual-Attention-Prediction)
 - **Description**: This repository implements a model focused on deep visual attention prediction. It leverages advanced deep learning techniques to predict attention maps that closely align with human fixation patterns in visual tasks, providing insights into attention mechanisms in computer vision.
+
+## 15. Unified Image and Video Saliency Modeling
+- **Paper**: Unified Image and Video Saliency Modeling
+- **Code Repository**: [GitHub - unisal](https://github.com/rdroste/unisal)
+- **Description**: This repository implements a unified model for both image and video saliency prediction. It integrates methods that work across both domains, leveraging spatiotemporal features to generate high-quality saliency maps that predict human attention across images and videos.
+
+## 16. EML-net: An Expandable Multi-layer Network for Saliency
+- **Paper**: EML-net: An Expandable Multi-layer Network for Saliency
+- **Code Repository**: [GitHub - EML-NET-Saliency](https://github.com/SenJia/EML-NET-Saliency)
+- **Description**: This repository implements the EML-net model, an expandable multi-layer network designed for saliency prediction. It focuses on generating saliency maps by integrating multi-level features, allowing for scalable and flexible network architecture that can be expanded or modified for different saliency tasks.
+
+## 17. A Compact Deep Architecture for Real-Time Saliency Prediction
+- **Paper**: A Compact Deep Architecture for Real-Time Saliency Prediction
+- **Code Repository**: [GitHub - fast-saliency-model](https://github.com/zabihis/fast-saliency-model)
+- **Description**: This repository implements a compact deep learning architecture designed for real-time saliency prediction. The model emphasizes efficiency and speed, making it suitable for applications requiring fast saliency detection while maintaining a high level of accuracy.
 
 ---
 
