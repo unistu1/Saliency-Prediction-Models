@@ -68,7 +68,11 @@ Below is a curated list of leading papers in visual saliency prediction along wi
 - **Paper**: Weakly Supervised Visual Saliency Prediction
 - **Code Repository**: [GitHub - WeakFixation](https://github.com/ashleylqx/WeakFixation)
 - **Description**: WeakFixation focuses on saliency prediction using weak supervision techniques. The repository includes the implementation of models that learn to predict visual saliency without requiring extensive labeled data, making the approach more scalable and applicable to diverse datasets.
-
+- 
+## 14. Deep Visual Attention Prediction
+- **Paper**: Deep Visual Attention Prediction
+- **Code Repository**:  GitHub - Deep-Visual-Attention-Prediction
+- **Description**:This repository implements a model focused on deep visual attention prediction. It leverages advanced deep learning techniques to predict attention maps that closely align with human fixation patterns in visual tasks, providing insights into attention mechanisms in computer vision.
 ---
 
 ## Notes
@@ -94,3 +98,4 @@ Below is a curated list of leading papers in visual saliency prediction along wi
   git clone https://github.com/hrtavakoli/iseel.git
   git clone https://github.com/isl-org/DPT.git
   git clone https://github.com/ashleylqx/WeakFixation.git
+  https://github.com/suraj-maniyar/Deep-Visual-Attention-Prediction
